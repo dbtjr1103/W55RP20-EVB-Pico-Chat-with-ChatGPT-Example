@@ -4,6 +4,8 @@ This project demonstrates the usage of the W55RP20-EVB-Pico evaluation board to 
 
 ## Overview
 The W55RP20-EVB-Pico is an evaluation board that combines the W5500 Ethernet controller and the RP2040 microcontroller, providing both the capabilities of a Raspberry Pi Pico and W5500 Ethernet. It offers a convenient way to develop projects that require wired network connectivity.
+![image](https://github.com/user-attachments/assets/93a57464-3edd-40eb-b8f8-b2dba4f42022)
+
 
 ### Key Features of W55RP20-EVB-Pico
 - **W55RP20 Microcontroller**: Combines the W5500 Ethernet controller with the RP2040 chip.
@@ -52,6 +54,8 @@ Once everything is set up, the device allows for interactive conversation with C
 - Using different AI models for various tasks, such as sentiment analysis, translation, or summarization.
 - Automating routine tasks by integrating with other services, like weather APIs, stock market data, or home automation.
 - Using additional libraries for advanced functionality, such as sending notifications based on ChatGPT responses.
+- ![image](https://github.com/user-attachments/assets/29fb11bb-64ee-40be-b09d-cbaf962cf849)
+
 
 ## Future Plans
 This simple demonstration can be a building block for more advanced applications:
